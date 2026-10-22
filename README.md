@@ -117,3 +117,24 @@ Want to see the dashboard, discuss your workflow, or ask about access? **Get in 
 ---
 
 The platform automates user-defined actions and does not guarantee profits or successful execution of every order. Token trading carries the risk of losing all allocated capital. Network fees, priority fees, and any tips are transaction costs separate from the platform access price.
+<img width="1857" height="237" alt="Zrzut ekranu 2026-10-22 203404" src="https://github.com/user-attachments/assets/d13f4ac6-ddbf-4582-aa0a-adfba7c1c94b" />
+<img width="1864" height="187" alt="Zrzut ekranu 2026-10-22 203351" src="https://github.com/user-attachments/assets/833f2367-64d5-4f71-a569-52b16769f23b" />
+<img width="1857" height="779" alt="Zrzut ekranu 2026-10-22 203338" src="https://github.com/user-attachments/assets/9d9073fc-23a6-4a70-81a0-15cdb8e2e043" />
+<img width="1869" height="930" alt="Zrzut ekranu 2026-10-22 203223" src="https://github.com/user-attachments/assets/3c4e9b23-7705-4f01-8ad3-d522ab9a2367" />
+
+https://solscan.io/tx/gKzRrbKRNHZN3aERH8MvEu7bu49veccw1ngMx7xUZXVEBtSWcR9UGfL7FRSwq5cPBq2Jug93nSWx9g7B6Nym4XL
+
+https://solscan.io/tx/4QKdSNWF5T1mHHiTyHqRUTkMVDo2GtCEJYvU7mpsnCMRwcWi8TAx2G4cz54dxVuAGgbVzaq1fvD5sAar4GuwDa7D
+
+https://solscan.io/tx/5jacjHB4fe7UjpUsviUyYuUEVHc8BGvek9j3aEdGvXyQUAt6p9jdHDahDCaoXWCZ5Qb2DUn92eZyVgAnmxi9WsRZ
+
+https://solscan.io/tx/5aSBCFLpAMdTJgh8z29ozhN1SZ5CNqC5PybSYUVEg53YqJwgvnfSvg4mzLgoaLkMtrkzCC7HrsujKjbcuipauRfv
+
+https://solscan.io/tx/2Fe4zuboXEvuEKazvKFPDUrxYY91xPGkbChfr89hGVZsTgvZSg78onBjztaduEs3uhLc4vp9P2oY7Cyu4C1uJzpo
+
+https://solscan.io/tx/zbYE14Piqnxcec1HptD4ZiP18u76XZymL7PJZJDHoChb2XQd574eoAVEfPj7nuS4arEr26ZZhfVJX8rQ2tevUEL
+
+https://solscan.io/tx/66uKocqpDhHChMVCZedLXmQiJsUeo4a2hdVF8FQ2wGVNTKb7RoS3FaPzN2t1CUTWTVDf64T8reew89L8SbZm9XSm
+
+
+Discord : hawryszka9021
